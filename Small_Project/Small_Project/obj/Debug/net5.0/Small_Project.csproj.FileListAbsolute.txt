@@ -1,0 +1,16 @@
+/Users/gio/Desktop/Small_Project/Small_Project/bin/Debug/net5.0/Small_Project
+/Users/gio/Desktop/Small_Project/Small_Project/bin/Debug/net5.0/Small_Project.deps.json
+/Users/gio/Desktop/Small_Project/Small_Project/bin/Debug/net5.0/Small_Project.runtimeconfig.json
+/Users/gio/Desktop/Small_Project/Small_Project/bin/Debug/net5.0/Small_Project.runtimeconfig.dev.json
+/Users/gio/Desktop/Small_Project/Small_Project/bin/Debug/net5.0/Small_Project.dll
+/Users/gio/Desktop/Small_Project/Small_Project/bin/Debug/net5.0/Small_Project.pdb
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/Small_Project.csproj.AssemblyReference.cache
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/Small_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/Small_Project.AssemblyInfoInputs.cache
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/Small_Project.AssemblyInfo.cs
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/Small_Project.csproj.CoreCompileInputs.cache
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/Small_Project.dll
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/refint/Small_Project.dll
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/Small_Project.pdb
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/Small_Project.genruntimeconfig.cache
+/Users/gio/Desktop/Small_Project/Small_Project/obj/Debug/net5.0/ref/Small_Project.dll
